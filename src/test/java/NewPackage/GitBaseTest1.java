@@ -8,6 +8,7 @@ public class GitBaseTest1
 	public void gitBase1()
 	{
 		System.out.println("-----Git Base 1 is Done-------");
+		System.out.println("------Git Base 1 is successfully working------");
 	}
 	
 
